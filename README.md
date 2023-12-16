@@ -14,8 +14,6 @@ As part of my certification program on Coursera, I've designed this webpage.
 
 - [Live Demo Link]()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 👥 Author <a name="authors"></a>
 
 👤 **Ye Min Thu**
@@ -23,10 +21,6 @@ As part of my certification program on Coursera, I've designed this webpage.
 - GitHub: [@githubhandle](https://github.com/mryeminthu)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ye-min-thu-76456a214/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - This page was originally created by Colleen van Lent for the [Web Design for Everybody ](https://www.coursera.org/specializations/web-design)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
