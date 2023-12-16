@@ -1,12 +1,12 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Springtime Website</b></h3>
+  <h3><b>Springtime In Michigan</b></h3>
 </div>
 
 - [📖 About the Project](#about-project)
 
-# 📖 [Springtime Website] <a name="about-project"></a>
+# 📖 [Springtime In Michigan] <a name="about-project"></a>
 
 As part of my certification program on Coursera, I've designed this webpage.
 
