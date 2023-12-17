@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: rgba(0, 0, 0, 0.413);
+    background-color: #000080;
 }
 
 nav, footer {
@@ -35,7 +35,6 @@ nav ul li {
 
 a {
     text-decoration: none;
-    color: hsl(256, 100%, 40%);
     font-weight: bold;
 }
 
@@ -51,7 +50,12 @@ h1 {
 }
 
 main {
-    background-color: hsl(0, 0%, 97%);;
+    background-color: #800080;
+    color: #fff;
+}
+
+main a {
+    color: #00FF00;
 }
 
 main p {
