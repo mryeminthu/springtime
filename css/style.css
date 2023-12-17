@@ -33,8 +33,13 @@ nav ul li {
     cursor: pointer;
 }
 
-nav ul li a {
+a {
     text-decoration: none;
+    color: hsl(256, 100%, 40%);
+    font-weight: bold;
+}
+
+nav ul li a {
     color: #fff;
 }
 
@@ -46,16 +51,13 @@ h1 {
 }
 
 main {
-    background-color: rgb(224, 167, 156);
+    background-color: hsl(0, 0%, 97%);;
 }
 
 main p {
     line-height: 1.5;
 }
 
-main p a {
-    text-decoration: none;
-}
 
 footer {
     color: #fff;
@@ -63,6 +65,6 @@ footer {
 }
 
 footer a {
-    text-decoration: none;
     color: rgb(20, 228, 33);
 }
+
