@@ -29,7 +29,8 @@ nav ul li {
     list-style-type: none;
     font-weight: 700;
     font-size: 1.2em;
-    margin-left: 4%;
+    margin-right: 4%;
+    cursor: pointer;
 }
 
 nav ul li a {
@@ -45,11 +46,15 @@ h1 {
 }
 
 main {
-    background-color: rgb(224, 195, 156);
+    background-color: rgb(224, 167, 156);
 }
 
 main p {
     line-height: 1.5;
+}
+
+main p a {
+    text-decoration: none;
 }
 
 footer {
