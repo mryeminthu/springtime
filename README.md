@@ -18,7 +18,8 @@ As part of my certification program on Coursera, I've designed this webpage.
 
 👤 **Ye Min Thu**
 
-- GitHub: [@githubhandle](https://github.com/mryeminthu)
+- GitHub: [GitHub](https://github.com/mryeminthu)
+- Twitter: [Twitter](https://twitter.com/mryeminthu)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ye-min-thu-76456a214/)
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
